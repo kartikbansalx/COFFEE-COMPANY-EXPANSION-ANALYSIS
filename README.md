@@ -1,4 +1,4 @@
-# Monday Coffee Expansion SQL Project
+# Monday Coffee Expansion SQL Analysis
 
 ![Company Logo](https://github.com/najirh/Monday-Coffee-Expansion-Project-P8/blob/main/1.png)
 
